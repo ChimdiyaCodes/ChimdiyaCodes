@@ -6,9 +6,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRib2E4dXFqNDM5eDJkdTgzdnEwOTlyaWc5czY0NnM0eXhha3kwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ekjmhJUGHJm7FC4Juo/giphy.gif" width="600" height="300"/>
 </div>
 
-### 👩‍💻 👨‍💻 Beyond the Stethoscope: 
-
-**5th year medical student with a passion for building elegant software solutions. Embarking on an exciting journey into software development while bringing unique analytical and problem-solving skills from my medical background.**
+### 👩‍💻 👨‍💻 Beyond the Stethoscope: 5th year medical student with a passion for building elegant software solutions. Embarking on an exciting journey into software development while bringing unique analytical and problem-solving skills from my medical background.
 
 **_💡ABOUT ME:_**
 
