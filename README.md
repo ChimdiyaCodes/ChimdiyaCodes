@@ -6,7 +6,15 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRib2E4dXFqNDM5eDJkdTgzdnEwOTlyaWc5czY0NnM0eXhha3kwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ekjmhJUGHJm7FC4Juo/giphy.gif" width="600" height="300"/>
 </div>
 
-### 👩‍💻 Passionate fitness enthusiast and aspiring software developer, blending discipline and resilience from physical training into the art of coding. Currently diving into Python programming, driven by the pursuit of technical excellence and continuous self-improvement.
+### 👩‍💻 👨‍💻 Beyond the Stethoscope 5th year medical student with a passion for building elegant software solutions. Embarking on an exciting journey into software development while bringing unique analytical and problem-solving skills from my medical background.
+
+-Medical Student by day, Code Explorer by night
+
+-Passionate about clean, efficient code
+
+-Enthusiastic about learning new technologies
+
+-Love solving problems
 
 -🎥 I enjoy watching movies
 
