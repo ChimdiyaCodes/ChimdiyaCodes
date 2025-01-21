@@ -10,19 +10,19 @@
 
 💡ABOUT ME:
 
--Medical Student by day, Code Explorer by night
+-🩺 Medical Student by day, Code Explorer by night
 
--Passionate about clean, efficient code
+-👌 Passionate about clean, efficient code
 
--Enthusiastic about learning new technologies
+-💻 Enthusiastic about learning new technologies
 
--Love solving problems
+-❤️ Love solving problems
 
--🎥 I enjoy watching movies
+-🏋️‍♂ Fitness Enthusiast
 
--🧑‍🍳 I am a Born Chef
+-🎥 Enjoy watching movies
 
--📖 I love reading books and exploring knowledge
+-📖 Love reading books and exploring knowledge
 
 -☎️ How to reach me [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/constancechimdiya/)  [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2FTwitter-blue%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite)](www.x.com/diyacodes) <address> <a href="mailto:chimdiyaconstance@gmail.com
 9"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white.svg"/></a> 
