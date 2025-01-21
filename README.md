@@ -8,6 +8,8 @@
 
 ### 👩‍💻 👨‍💻 Beyond the Stethoscope 5th year medical student with a passion for building elegant software solutions. Embarking on an exciting journey into software development while bringing unique analytical and problem-solving skills from my medical background.
 
+💡ABOUT ME:
+
 -Medical Student by day, Code Explorer by night
 
 -Passionate about clean, efficient code
