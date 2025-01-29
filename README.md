@@ -70,7 +70,7 @@
 - [X] 🧹 [Scopes in Python](https://github.com/ChimdiyaCodes/python-beginner-tutorial-codes/blob/main/scope.py)
 - [x] ➰ [While loops in Pyhton](https://github.com/ChimdiyaCodes/python-beginner-tutorial-codes/blob/main/whileloopreview.py)
 - [X] 🌡️ [Temperature conversion](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/Celsiustofuser'sturn.py)
-- [X] 🌡️ [Celsius to Fehrenheit conversion](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/addition.py)
+- [X] 🌡️ [Celsius to Fahrenheit conversion](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/addition.py)
 - [X] ⚖️ [Addition function](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/addition.py)
 - [X] 🏚️ [Class declaration](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/class.py)
 - [X] 👨‍🦲 [Object of Person](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/class3.py)
