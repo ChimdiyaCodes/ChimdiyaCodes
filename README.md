@@ -51,6 +51,48 @@
   ---
    ### 📘 My Roadmap to the enticing world of <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 
+   ---
+ 
+
+ - [X] 👋 [Hellow world in Python](https://github.com/ChimdiyaCodes/python-beginner-tutorial-codes/blob/main/hello.py)
+
+- [X] 🧮 [Python data types](https://github.com/ChimdiyaCodes/python-beginner-tutorial-codes/blob/main/data_types.py)
+
+- [X] 📖 [Dictionary in Python](https://github.com/ChimdiyaCodes/python-beginner-tutorial-codes/blob/main/dictionaries.py)
+- [X] ✂️ [Recursive (implementation of) rock-paper-scissors game](https://github.com/ChimdiyaCodes/python-beginner-tutorial-codes/blob/main/diyarpspart3.py)
+- [X] 🎮 [While loop implementation of) rock-paper-scissors game](https://github.com/ChimdiyaCodes/python-beginner-tutorial-codes/blob/main/diyascontrolflowrpsimprovedusingwhileloop.py)
+- [X] 🚦[Functions in Python](https://github.com/ChimdiyaCodes/python-beginner-tutorial-codes/blob/main/functions.py)
+- [X] 🛄 [List in Python](https://github.com/ChimdiyaCodes/python-beginner-tutorial-codes/blob/main/lists.py)
+- [X] ➿ [Loops in Python](https://github.com/ChimdiyaCodes/python-beginner-tutorial-codes/blob/main/loops.py)
+- [X] ⌨️ [Scissors-paper-rock game with user input](https://github.com/ChimdiyaCodes/python-beginner-tutorial-codes/blob/main/pythonuserinputandcontrolflowrps.py)
+- [X] ♻️ [Recursion in Python](https://github.com/ChimdiyaCodes/python-beginner-tutorial-codes/blob/main/recursion.py)
+- [X] 🏈 [Scope implementation of Scissors-paper-rock game](https://github.com/ChimdiyaCodes/python-beginner-tutorial-codes/blob/main/rps4improvedusingscope.py)
+- [X] 🧹 [Scopes in Python](https://github.com/ChimdiyaCodes/python-beginner-tutorial-codes/blob/main/scope.py)
+- [x] ➰ [While loops in Pyhton](https://github.com/ChimdiyaCodes/python-beginner-tutorial-codes/blob/main/whileloopreview.py)
+- [X] 🌡️ [Temperature conversion](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/Celsiustofuser'sturn.py)
+- [X] 🌡️ [Celsius to Fahrenheit conversion](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/addition.py)
+- [X] ⚖️ [Addition function](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/addition.py)
+- [X] 🏚️ [Class declaration](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/class.py)
+- [X] 👨‍🦲 [Object of Person](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/class3.py)
+- [X] 👷 [Class functions](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/classfunc2.py)
+- [X] 🎰 [Divisions](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/div.py)
+- [X] ⚔️ [if-else conditionals](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/diyaifelse.py)
+- [X] ➰➿ [for-loop-iteration](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/for%20loop.py)
+- [X] 💫 [for-in-iteration](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/forinforranks.py)
+- [X] 🖨️ [user-input requests](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/gettinguserpassword.py)
+- [X] 📧 [Simple email validation checks](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/ifelseemail.py)
+- [X] 🫀 [Simple heart-rate checks](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/ifheartratechecker.py)
+- [X] 🛁 [Lambda implementation](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/lambda2.py)
+- [X] ⚛️ [case conversions](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/upperlowercase.py)
+- [X] 🦾 [string manipulations](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/string.py)
+- [X] 🪗 [list iteration](https://github.com/ChimdiyaCodes/Diya-s-android-python-codes/blob/main/coding%20milestones%F0%9F%8E%89/listcomprehension3.py)
+
+---
+
+
+
+        
+
 
 
 <!--
