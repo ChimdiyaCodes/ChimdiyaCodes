@@ -92,7 +92,7 @@
 - [X] ⏱️ [Time machine](https://github.com/ChimdiyaCodes/PythonProblemSolvingAdventures/commit/fd5d4a5e63519e31e5a39759bb93f2b37f339d28)
 - [x] 🤸 [Body mass index (BMI) machine](https://github.com/ChimdiyaCodes/PythonProblemSolvingAdventures/commit/292b504e3f20539da9edbbdcba1f5fd6a94fe2eb)
 - [x] 📆 [Canadian holiday checker](https://github.com/ChimdiyaCodes/PythonProblemSolvingAdventures/commit/55489ef44177f545490794366c5a7c504ec99f42)
-
+- [x] 🗓️ [Season checker(spring, summer, fall and winter)](https://github.com/ChimdiyaCodes/PythonProblemSolvingAdventures/commit/6e959e791fe28fd47ea3daa4c297a83cee668af2)
 
 ---
 
