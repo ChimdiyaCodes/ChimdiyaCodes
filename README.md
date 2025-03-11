@@ -94,6 +94,8 @@
 - [x] 📆 [Canadian holiday checker](https://github.com/ChimdiyaCodes/PythonProblemSolvingAdventures/commit/55489ef44177f545490794366c5a7c504ec99f42)
 - [x] 🗓️ [Season checker(spring, summer, fall and winter)](https://github.com/ChimdiyaCodes/PythonProblemSolvingAdventures/commit/6e959e791fe28fd47ea3daa4c297a83cee668af2)
 - [x] 🌟 [Zodiac sign checker](https://github.com/ChimdiyaCodes/PythonProblemSolvingAdventures/commit/e6ef51f4aeb81b48b3a6611f3a6a9567f935c053)
+- [x] 🗓️ [Leap Year Checker](https://github.com/ChimdiyaCodes/PythonProblemSolvingAdventures/blob/main/exercise_57.py)
+- [x] 📆 [Next day calculator](https://github.com/ChimdiyaCodes/PythonProblemSolvingAdventures/blob/main/exercise_58.py)
 
 ---
 
